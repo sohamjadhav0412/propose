@@ -163,15 +163,15 @@ p {
 
 @media (max-width: 480px) {
   .postcard {
-    width: 100px;
-    height: 70px;
-    padding: 1.5em;
+    width: 700px;
+    height: 400px;
+    padding: 1em;
   }
 
   .postcard1 {
-    width: 300px;
-    height: 1700px;
-    left: 10%;
+    width:700px;
+    height: 400px;
+    left: 1%;
   }
 
   h1 {
