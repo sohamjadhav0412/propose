@@ -102,7 +102,7 @@ p {
 @media (max-width: 1024px) {
   .postcard1 {
     width: 600px;
-    height: 1700px;
+    height: 100px;
     left: 20%;
   }
 
@@ -163,14 +163,14 @@ p {
 
 @media (max-width: 480px) {
   .postcard {
-    width: 100px;
+    width: 900px;
     height: 70px;
     padding: 1.5em;
   }
 
   .postcard1 {
-    width: 300px;
-    height: 1700px;
+    width: 900px;
+    height: 500px;
     left: 10%;
   }
 
@@ -194,4 +194,5 @@ p {
     font-size: 16px;
   }
 }
+
 
