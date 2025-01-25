@@ -89,7 +89,7 @@ p span {
 
 p {
   font-size: 22px;
-  font-family: cursive;
+  font-family: 'Times New Roman', Times, serif;
   font-weight: 540;
 }
 
@@ -169,7 +169,7 @@ p {
   }
 
   .postcard1 {
-    width: 700px;
+    width: 300px;
     height: 1700px;
     left: 10%;
   }
@@ -184,8 +184,6 @@ p {
 
   p span {
     font-size: 18px;
-    width: 700px;
-    height: 1700px;
   }
 
   p {
@@ -196,3 +194,4 @@ p {
     font-size: 16px;
   }
 }
+
