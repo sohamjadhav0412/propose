@@ -101,8 +101,8 @@ p {
 /* Responsive adjustments */
 @media (max-width: 1024px) {
   .postcard1 {
-    width: 700px;
-    height: 700px;
+    width: 1024px;
+    height: 1024px;
     left: 20%;
   }
 
@@ -135,8 +135,8 @@ p {
   }
 
   .postcard1 {
-    width: 400px;
-    height: 1700px;
+    width: 800px;
+    height: 700px;
     left: 15%;
   }
 
@@ -164,13 +164,13 @@ p {
 @media (max-width: 480px) {
   .postcard {
     width: 700px;
-    height: 500px;
+    height: 600px;
     padding: 1em;
   }
 
   .postcard1 {
     width: 700px;
-    height: 500px;
+    height: 600px;
     left: 1%;
   }
 
