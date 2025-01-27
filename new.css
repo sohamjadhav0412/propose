@@ -12,8 +12,8 @@ body {
 }
 
 .postcard {
-  width: 160px;
-  height: 100px;
+  width: 1024px;
+  height: 1024px;
   background: rgba(255, 255, 255, 0.101);
   margin: 0 auto;
   border-radius: 2%;
@@ -26,8 +26,8 @@ body {
 }
 
 .postcard1 {
-  width: 800px;
-  height: 500px;
+  width: 1024px;
+  height: 1024px;
   background: #f594b862;
   position: absolute;
   left: 24%;
@@ -101,8 +101,8 @@ p {
 /* Responsive adjustments */
 @media (max-width: 1024px) {
   .postcard1 {
-    width: 600px;
-    height: 1700px;
+    width: 700px;
+    height: 700px;
     left: 20%;
   }
 
